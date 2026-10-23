@@ -9,7 +9,7 @@ MCP server local (stdio) con la documentación de personalización de UI de Keyc
 
 | Tool | Uso |
 |---|---|
-| `list_guides` | Slugs, títulos y resúmenes de las 8 guías |
+| `list_guides` | Slugs, títulos y resúmenes de las 10 guías |
 | `get_guide(slug, section?)` | Guía completa o una sección `##` |
 | `list_sections(slug)` | Encabezados de una guía |
 | `search_docs(query, limit?)` | Busca en todas las guías y devuelve las secciones más relevantes |

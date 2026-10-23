@@ -5,6 +5,7 @@ from keycloak_customization_mcp import server
 EXPECTED = {
     "introduction", "themes", "quick-theme", "localization",
     "avatars", "welcome-theme", "creating-your-own-console", "themes-react",
+    "emails", "email-design-brief",
 }
 
 
